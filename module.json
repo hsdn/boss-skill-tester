@@ -1,0 +1,12 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Boss Skill Tester",
+	"author": "Shalltearz",
+	"description": "No description given cause readme.",
+	"version": "Undefined",
+	"options": {
+		"niceName": "Boss Skill Tester"
+	},
+	"servers": ["https://raw.githubusercontent.com/Tera-Shiraneko/boss-skill-tester/master/"],
+	"supportUrl": "https://github.com/Tera-Shiraneko/boss-skill-tester/issues"
+}
