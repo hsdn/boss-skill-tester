@@ -11,3 +11,8 @@
 - Type `/8 summonskill + skill id` to make the monster do some attacks.
 - Type `/8 summon + hunting zone + template id` to spawn the monster.
 - Type `/8 selfabn + abnormal id` to apply an abnormality to you.
+
+---
+
+## Note
+- The commands should be written without the plus just an space between it.
