@@ -5,7 +5,7 @@
 	"description": "Tera proxy module for testing boss skills and another stuff.",
 	"version": "1.0",
 	"options": {
-		"niceName": "Boss Skill Tester",
+		"niceName": "Boss Skill Tester"
 	},
 	"servers": ["https://raw.githubusercontent.com/Tera-Shiraneko/boss-skill-tester/master/"],
 	"supportUrl": "https://github.com/Tera-Shiraneko/boss-skill-tester/issues"
