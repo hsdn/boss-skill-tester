@@ -1,0 +1,20 @@
+{
+	"files": {
+		"Readme.md": "13eae1de4c10bd7e162714cbad1d8b6c8fd14cacddb5515e7d1b977865ef39ae",
+		"index.js": "f7795e9246e4b3b0d73bce24eba7c028e90041fca893b991cb144aceaf556381",
+		"module.json": "fcf4222080dcbe248133a352ad105431480e05f2b6f7939fa2b8f15594aaa25f",
+		"settings_migrator.js": "0b15a07833baaac0f75ac3beb510ce198346ecc870c3182f5098e9c9ace44dd2",
+		"settings_structure.js": "9fcd66a92d9c452125e1c4ab01f0804b95ca91aaedb4b036716fdb9ee246b6f0"
+	},
+	"defs": {
+		"C_MEET_BOSS_INFO": "raw",
+		"C_PLAYER_LOCATION": 5,
+		"C_REQUEST_BOSS_GAGE_INFO": "raw",
+		"S_ABNORMALITY_BEGIN": 3,
+		"S_ACTION_STAGE": 9,
+		"S_BOSS_GAGE_INFO": 3,
+		"S_DESPAWN_NPC": 3,
+		"S_QUEST_BALLOON": 1,
+		"S_SPAWN_NPC": 10
+	}
+}
