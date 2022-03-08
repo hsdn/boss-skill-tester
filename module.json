@@ -1,16 +1,12 @@
 {
-    "disableAutoUpdate": false,
-    "name": "Boss Skill Tester",
+    "name": "boss-skill-tester",
     "author": "Shalltearz",
     "description": "Tera proxy module for testing boss skills and another stuff.",
     "version": "1.0",
     "options": {
         "niceName": "Boss Skill Tester",
-        "guiName": "Boss Skill Tester",
-        "settingsVersion": 1,
-        "settingsFile": "config.json",
-        "settingsMigrator": "settings_migrator.js"
+        "guiName": "Boss Skill Tester"
     },
-    "servers": ["https://raw.githubusercontent.com/Tera-Shiraneko/boss-skill-tester/master/"],
-    "supportUrl": "https://github.com/Tera-Shiraneko/boss-skill-tester/issues"
+    "servers": ["https://raw.githubusercontent.com/hsdn/boss-skill-tester/master/"],
+    "disableAutoUpdate": false
 }

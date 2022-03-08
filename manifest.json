@@ -1,20 +1,20 @@
 {
-	"files": {
-		"Readme.md": "5f6f3de1172a8c855ec16f5a2f8ab48ea29c9a7a9e29b866acb4f02ab7a6f478",
-		"index.js": "ed2243b010674194aa36e591e25e861b84e2f3b17ce31500f8db8e3d1213cf3a",
-		"module.json": "fcf4222080dcbe248133a352ad105431480e05f2b6f7939fa2b8f15594aaa25f",
-		"settings_migrator.js": "0b15a07833baaac0f75ac3beb510ce198346ecc870c3182f5098e9c9ace44dd2",
-		"settings_structure.js": "9fcd66a92d9c452125e1c4ab01f0804b95ca91aaedb4b036716fdb9ee246b6f0"
-	},
-	"defs": {
-		"C_MEET_BOSS_INFO": "raw",
-		"C_PLAYER_LOCATION": 5,
-		"C_REQUEST_BOSS_GAGE_INFO": "raw",
-		"S_ABNORMALITY_BEGIN": 3,
-		"S_ACTION_STAGE": 9,
-		"S_BOSS_GAGE_INFO": 3,
-		"S_DESPAWN_NPC": 3,
-		"S_QUEST_BALLOON": 1,
-		"S_SPAWN_NPC": 11
-	}
+    "files": {
+        "index.js": "da11f4b97b3c05e3947cc578d0341e329892e9f551ec5c2b0cdf443984c4fc22",
+        "module.json": "14d648e923960a2ebbb0d8b4437a217ffa97081f471084cbe197d4a4b036062d"
+    },
+    "defs": {
+        "C_MEET_BOSS_INFO": "raw",
+        "C_PLAYER_LOCATION": 5,
+        "C_REQUEST_BOSS_GAGE_INFO": "raw",
+        "S_ABNORMALITY_BEGIN": [3,4],
+        "S_ABNORMALITY_END": 1,
+        "S_ACTION_STAGE": 9,
+        "S_BOSS_GAGE_INFO": 3,
+        "S_DESPAWN_NPC": 3,
+        "S_DUNGEON_EVENT_MESSAGE": 2,
+        "S_LOAD_TOPO": "raw",
+        "S_QUEST_BALLOON": 1,
+        "S_SPAWN_NPC": 11
+    }
 }
